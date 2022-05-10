@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Sailec-Regular";
+    font-weight: 400;
+    src: url("./Sailec-Regular.woff2") format("woff2"), url("./Sailec-Regular.woff") format("woff"),
+        url("./Sailec-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Sailec-Medium";
+    font-weight: 400;
+    src: url("./Sailec-Medium.woff2") format("woff2"), url("./Sailec-Medium.woff") format("woff"),
+        url("./Sailec-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Sailec-Light";
+    font-weight: 400;
+    src: url("./Sailec-Light.woff2") format("woff2"), url("./Sailec-Light.woff") format("woff");
+}
